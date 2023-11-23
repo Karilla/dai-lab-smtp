@@ -1,0 +1,60 @@
+Réunion demain ?
+<end-object>
+Bonjour,
+Demain, réunion à 12h
+Cordialement
+<end-message>
+Nouvelle opportunité de collaboration
+<end-object>
+Bonjour,
+Collaboration envisageable. Discussion ?
+Salutations
+<end-message>
+Commentaires sur le projet
+<end-object>
+Bonjour,
+Avis sur dernier projet ?
+Merci
+<end-message>
+Confirmation réservation
+<end-object>
+Bonjour,
+Réservation confirmée
+Cordialement
+<end-message>
+Proposition formation
+<end-object>
+Bonjour,
+Programme formation. Réunion ?
+Salutations
+<end-message>
+Félicitations réussite
+<end-object>
+Bonjour,
+Félicitations pour réussite récente.
+Cordialement
+<end-message>
+Mise à jour projet
+<end-object>
+Bonjour,
+Projet avance bien. Réunion ?
+Salutations
+<end-message>
+Réponse demande d'informations
+<end-object>
+Bonjour,
+Informations demandées. Retour imminent.
+Cordialement
+<end-message>
+Invitation événement
+<end-object>
+Bonjour,
+Invité(e) événement
+Salutations
+<end-message>
+Feedback nécessaire
+<end-object>
+Bonjour,
+Besoin feedback. Quelques minutes ?
+Cordialement
+<end-message>
