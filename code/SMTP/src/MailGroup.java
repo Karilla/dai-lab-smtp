@@ -36,14 +36,9 @@ public class MailGroup {
 
             }
 
-
-
-
-
-
             read.close();
 
-            return output.toString();
+            return Mails;
 
         } catch (IOException e) {
             System.out.println("Exception : " + e);
