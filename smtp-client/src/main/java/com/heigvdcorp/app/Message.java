@@ -1,10 +1,13 @@
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import org.json.
 
 public class Message {
 
     Mail mail;
+
+
 
 
     private final File file;
